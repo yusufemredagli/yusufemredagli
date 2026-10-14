@@ -1,29 +1,79 @@
-# Merhaba, ben Yusuf Emre Dağlı 
+# Yusuf Emre Dağlı
 
-Junior Web Developer olarak PHP, MySQL, JavaScript ve modern web teknolojileri üzerine kendimi geliştiriyorum. Canlıya alınmış web projeleri, admin panel yapıları, ürün listeleme sistemleri ve responsive arayüzler üzerine çalışıyorum.
+Junior Full-Stack Developer focused on backend-oriented web applications and production-ready systems.
 
- Odaklandığım Alanlar
+I develop web applications using JavaScript, Node.js, Express.js, PHP, MySQL and REST APIs. My experience includes database-driven systems, admin panels, responsive interfaces, API development, deployment processes and technical SEO.
 
-- PHP & MySQL ile web uygulamaları
-- PDO ile güvenli veritabanı işlemleri
-- HTML, CSS, JavaScript ile responsive arayüz geliştirme
-- Admin panel ve CRUD sistemleri
-- Ürün listeleme, sepet ve sipariş mantığı
-- Git & GitHub ile proje yönetimi
+## Technical Skills
 
-## Teknolojiler
+**Backend**
+Node.js, Express.js, PHP, REST API
 
-PHP • MySQL • PDO • HTML5 • CSS3 • JavaScript • Bootstrap • React • Node.js • Git • GitHub
+**Database**
+MySQL, SQL, Prisma ORM
 
-## Öne Çıkan Projem
+**Frontend**
+JavaScript, React, HTML5, CSS3, Bootstrap, Responsive Web Design
 
-### Togris Website
-3D baskı hizmetleri için geliştirilmiş PHP ve MySQL tabanlı e-ticaret ve özel teklif alma platformu.
+**Tools**
+Git, GitHub, cPanel, Vite, VS Code
 
-- Canlı Site: https://www.togris.com
-- Canlı Site: https://www.basaribogazici.com
+**Web & Deployment**
+Technical SEO, Local SEO, Google Search Console, Google Business Profile, SSL, Domain/Hosting
 
+## Selected Projects
 
-## Hedefim
+### Başarı Boğaziçi
+Education management and analytics platform developed for student, parent, teacher and administration workflows.
 
-Junior Web Developer olarak gerçek projelerde görev almak, backend ve frontend tarafında kendimi geliştirmek ve kullanıcı odaklı, sürdürülebilir web uygulamaları geliştirmek.
+**Technologies:** Node.js, JavaScript, MySQL, REST API
+
+**Responsibilities:**
+- Backend and database development
+- Scheduling and conflict control workflows
+- Task tracking and performance analysis features
+- Responsive user interfaces
+- Deployment support
+
+Live Website: https://www.basaribogazici.com
+
+---
+
+### Togris
+
+Database-driven e-commerce platform developed with PHP and MySQL.
+
+**Technologies:** PHP, MySQL, JavaScript, HTML5, CSS3
+
+**Responsibilities:**
+- Product listing and category structure
+- Dynamic content management
+- Database integrations
+- Responsive interface development
+
+Live Website: https://www.togris.com
+
+---
+
+### Aydın Elektrik Ankara
+
+Responsive corporate website developed and deployed to production.
+
+**Technologies:** PHP, HTML5, CSS3, JavaScript
+
+**Responsibilities:**
+- Responsive web development
+- PHP routing
+- Technical SEO implementation
+- Schema markup
+- Sitemap and robots.txt configuration
+- Google Search Console integration
+- Local SEO optimization
+
+## Professional Focus
+
+I am currently focused on Junior Full-Stack Developer and Backend Developer opportunities where I can contribute to real-world products and continue developing my backend, API and database skills.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/yusuf-emre-dağlı-9394b722b
