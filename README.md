@@ -1,8 +1,8 @@
-# Merhaba, ben Yusuf Emre Dağlı 👋
+# Merhaba, ben Yusuf Emre Dağlı 
 
 Junior Web Developer olarak PHP, MySQL, JavaScript ve modern web teknolojileri üzerine kendimi geliştiriyorum. Canlıya alınmış web projeleri, admin panel yapıları, ürün listeleme sistemleri ve responsive arayüzler üzerine çalışıyorum.
 
-## 🚀 Odaklandığım Alanlar
+ Odaklandığım Alanlar
 
 - PHP & MySQL ile web uygulamaları
 - PDO ile güvenli veritabanı işlemleri
@@ -11,7 +11,7 @@ Junior Web Developer olarak PHP, MySQL, JavaScript ve modern web teknolojileri �
 - Ürün listeleme, sepet ve sipariş mantığı
 - Git & GitHub ile proje yönetimi
 
-## 🛠️ Teknolojiler
+## Teknolojiler
 
 PHP • MySQL • PDO • HTML5 • CSS3 • JavaScript • Bootstrap • React • Node.js • Git • GitHub
 
@@ -22,7 +22,7 @@ PHP • MySQL • PDO • HTML5 • CSS3 • JavaScript • Bootstrap • React 
 
 - Canlı Site: https://www.togris.com
 - Canlı Site: https://www.basaribogazici.com
-- GitHub: https://github.com/yusufemredagli/togris-website
+
 
 ## Hedefim
 
